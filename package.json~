@@ -1,0 +1,12 @@
+{
+
+  "name":"Mean Application",
+"version":"0.0.0",
+"description":"CRUD Application using MEAN",
+"scripts": { "start": "node server" },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.13.0",
+    "mongojs":"^2.4.0"
+  }
+}
